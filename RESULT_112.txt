@@ -1,0 +1,276 @@
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Call algorithmAnalysis() function.
+8.  Delete ALL movies and end the program.
+CHOOSE 1-8:  
+
+What is the name of the file? (example.txt):  
+The Shawshank Redemption was added to the movie library!
+
+The Godfather was added to the movie library!
+
+The Dark Knight was added to the movie library!
+
+Schindler's List was added to the movie library!
+
+The Lord of the Rings: The Return of the King was added to the movie library!
+
+Fight Club was added to the movie library!
+
+The Lord of the Rings: Fellowship of the Ring was added to the movie library!
+
+Forrest Gump was added to the movie library!
+
+The Matrix was added to the movie library!
+
+The Lord of the Rings: The Two Towers was added to the movie library!
+
+One Flew Over the Cuckoo's Nest was added to the movie library!
+
+Se7en was added to the movie library!
+
+It's a Wonderful Life was added to the movie library!
+
+Saving Private Ryan was added to the movie library!
+
+Interstellar was added to the movie library!
+
+The Green Mile was added to the movie library!
+
+Raiders of the Lost Ark was added to the movie library!
+
+Back to the Future was added to the movie library!
+
+Peter Rabbit was added to the movie library!
+
+Jumanji: Welcome to the Jungle was added to the movie library!
+
+The Greatest Showman was added to the movie library!
+
+Early Man was added to the movie library!
+
+Saving Private Ryan was added to the movie library!
+
+Forrest Gump was added to the movie library!
+
+The Shawshank Redemption was added to the movie library!
+
+The Godfather was added to the movie library!
+
+The Dark Knight was added to the movie library!
+
+Schindler's List was added to the movie library!
+
+The Lord of the Rings: The Return of the King was added to the movie library!
+
+Fight Club was added to the movie library!
+
+The Lord of the Rings: Fellowship of the Ring was added to the movie library!
+
+Forrest Gump was added to the movie library!
+
+The 400 Blows was added to the movie library!
+
+La Haine was added to the movie library!
+
+The Godfather was added to the movie library!
+
+The Godfather II was added to the movie library!
+
+Man Bites Dog was added to the movie library!
+
+The Departed was added to the movie library!
+
+Umberto D. was added to the movie library!
+
+White Heat was added to the movie library!
+
+Eddie Murphy: Raw was added to the movie library!
+
+All Quiet on the Western Front was added to the movie library!
+
+Duck Soup was added to the movie library!
+
+Mafioso was added to the movie library!
+
+Stalag 17 was added to the movie library!
+
+The Shawshank Redemption was added to the movie library!
+
+The Dark Knight was added to the movie library!
+
+Fight Club was added to the movie library!
+
+Batman Begins was added to the movie library!
+
+The Big Lebowski was added to the movie library!
+
+Snatch was added to the movie library!
+
+3 Idiots was added to the movie library!
+
+8 Mile was added to the movie library!
+
+12 Angry Men was added to the movie library!
+
+17 Again was added to the movie library!
+
+25th Hour was added to the movie library!
+
+27 Dresses was added to the movie library!
+
+About Time was added to the movie library!
+
+About Schmidt was added to the movie library!
+
+Abraham Lincoln: Vampire Hunter was added to the movie library!
+
+Airport was added to the movie library!
+
+Airport 1975 was added to the movie library!
+
+Akeelah and the Bee was added to the movie library!
+
+Aladdin was added to the movie library!
+
+The Alamo was added to the movie library!
+
+Albatross was added to the movie library!
+
+Almost Famous was added to the movie library!
+
+American Pie was added to the movie library!
+
+American Gangster was added to the movie library!
+
+Annie was added to the movie library!
+
+American Sniper was added to the movie library!
+
+Apocalypse Now was added to the movie library!
+
+Antz was added to the movie library!
+
+Annie Hall was added to the movie library!
+
+Angels with Dirty Faces was added to the movie library!
+
+Angel Heart was added to the movie library!
+
+Are We Done Yet? was added to the movie library!
+
+As Good As It Gets was added to the movie library!
+
+Assassination Games was added to the movie library!
+
+Arthur was added to the movie library!
+
+Argo was added to the movie library!
+
+The Aristocats was added to the movie library!
+
+Atlantis: The Lost Empire was added to the movie library!
+
+Alvin and the Chipmunks was added to the movie library!
+
+All of Me was added to the movie library!
+
+All Dogs Go to Heaven was added to the movie library!
+
+Alive was added to the movie library!
+
+Avatar was added to the movie library!
+
+Austin POwers in GOldmember was added to the movie library!
+
+Auntie Mame was added to the movie library!
+
+Babe was added to the movie library!
+
+Back to School was added to the movie library!
+
+Back to the FUture was added to the movie library!
+
+Bad Boys II was added to the movie library!
+
+Bambi was added to the movie library!
+
+Bambi II was added to the movie library!
+
+Big Fish was added to the movie library!
+
+Beverly Hills Cop II was added to the movie library!
+
+Better Off Dead was added to the movie library!
+
+Big Hero 6 was added to the movie library!
+
+Boyhood was added to the movie library!
+
+Bottle Rocket was added to the movie library!
+
+Boogeyman was added to the movie library!
+
+Boys from Brazil was added to the movie library!
+
+Boys Town was added to the movie library!
+
+The Big Lebowski was added to the movie library!
+
+Big Fat Liar was added to the movie library!
+
+Bicentennial Man was added to the movie library!
+
+A better Tomorrow was added to the movie library!
+
+Better Than Chocolate was added to the movie library!
+
+The Best Little Whorehouse in Texas was added to the movie library!
+
+Bananas was added to the movie library!
+
+
+112 movies were read from the file and added to your movie library.
+
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Call algorithmAnalysis() function.
+8.  Delete ALL movies and end the program.
+CHOOSE 1-8:  
+	Linear Search elapsed time: 0 second(s).
+	Binary Search elapsed time: 0 second(s).
+	Bubble Sort elapsed time: 0 second(s).
+	Selection Sort elapsed time: 0 second(s).
+	Insertion Sort elapsed time: 0 second(s).
+	Insertion Sort Descending elapsed time: 0 second(s).
+	Merge Sort elapsed time: 0 second(s).
+	Quick Sort elapsed time: 0 second(s).
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Call algorithmAnalysis() function.
+8.  Delete ALL movies and end the program.
+CHOOSE 1-8:  
+
+GOODBYE!
+
